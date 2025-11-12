@@ -1,0 +1,257 @@
+{
+    "tags": [
+        "Lightweight Division",
+        "Retired"
+    ],
+    "name": {
+        "nickname": "\"The Eagle\"",
+        "name": "Khabib Nurmagomedov"
+    },
+    "division": {
+        "division": "Lightweight Division",
+        "record": "29-0-0 (W-L-D)"
+    },
+    "stats": {
+        "Fight Win Streak": "30",
+        "Wins by Knockout": "8",
+        "Wins by Submission": "11"
+    },
+    "image": {
+        "name": "Khabib Nurmagomedov",
+        "image_url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/fighter_images/Khabib_Nurmagomedov/1NURMAGOMEDOV_KHABIB_L.png?itok=jRlelmad"
+    },
+    "spotlight": {
+        "heading": "UFC Spotlight",
+        "data": [
+            {
+                "Title": "One Hour Of The Greatest UFC Submissions",
+                "Link": "https://www.ufc.com/video/145142",
+                "Image": "https://ufc.com/images/styles/card_advance_small_280x356/s3/2025-01/1%20HR%20Of%20Submissions%20v2.jpg?itok=5xKgg7aH"
+            },
+            {
+                "Title": "Coach Khabib Spotlight | UFC 311",
+                "Link": "https://www.ufc.com/news/coach-khabib-spotlight-ufc-311-islam-makhachev-umar-nurmagomedov-tagir-ulanbekov",
+                "Image": "https://ufc.com/images/styles/card_advance_small_280x356/s3/2025-01/080324-Khabib-Nurmagomedov-Coaching-HERO-GettyImages-2165151861.jpg?itok=feoL0AEm"
+            },
+            {
+                "Title": "Khabib Nurmagomedov Talks Coaching For UFC 311",
+                "Link": "https://www.ufc.com/video/144908",
+                "Image": "https://ufc.com/images/styles/card_advance_small_280x356/s3/2025-01/011825-Khabib-thumb-espn.jpg?itok=CSGsz1mo"
+            },
+            {
+                "Title": "Khabib Nurmagomedov vs Conor McGregor | UFC Muted",
+                "Link": "https://www.ufc.com/video/140766",
+                "Image": "https://ufc.com/images/styles/card_advance_small_280x356/s3/2024-07/GettyImages-1046918324_resized.jpg?itok=WOhovG5s"
+            },
+            {
+                "Title": "UFC Lightweight Title Lineage",
+                "Link": "https://www.ufc.com/news/ufc-lightweight-title-lineage-khabib-mcgregor-penn-poirier-oliveira",
+                "Image": "https://ufc.com/images/styles/card_advance_small_280x356/s3/2024-05/060124-Islam-Makhachev-belt-HERO-GettyImages-1748875559.jpg?itok=IotQm44g"
+            },
+            {
+                "Title": "Dana White\u2019s Five Biggest UFC Events",
+                "Link": "https://www.ufc.com/news/dana-whites-five-biggest-ufc-events-300",
+                "Image": "https://ufc.com/images/styles/card_advance_small_280x356/s3/2024-04/041324-Dana-White-general-HERO-GettyImages-1943335185.jpg?itok=mw4ii0QB"
+            },
+            {
+                "Title": "Undefeated Title Challengers",
+                "Link": "https://www.ufc.com/video/136776",
+                "Image": "https://ufc.com/images/styles/card_advance_small_280x356/s3/2024-02/UndefeatedTitleChallengers_FIX.jpg?itok=OCajbDCx"
+            },
+            {
+                "Title": "UFC Ultimate 30 Roster Recap | Episode 2",
+                "Link": "https://www.ufc.com/news/ufc-ultimate-30-roster-recap-episode-2",
+                "Image": "https://ufc.com/images/styles/card_advance_small_280x356/s3/2023-11/Khabib-Nurmagomedov-Hero.jpg?itok=mmurHUO7"
+            },
+            {
+                "Title": "The 10 Best UFC Moments From Madison Square Garden",
+                "Link": "https://www.ufc.com/news/10-best-ufc-moments-madison-square-garden-295",
+                "Image": "https://ufc.com/images/styles/card_advance_small_280x356/s3/2023-10/111123-Alex-Pereira-punch-HERO-GettyImages-1441091218.jpg?itok=zJFLbOTK"
+            },
+            {
+                "Title": "The Success Of Khabib Nurmagomedov And Islam Makhachev In Abu Dhabi",
+                "Link": "https://www.ufc.com/news/success-khabib-nurmagomedov-and-islam-makhachev-abu-dhabi",
+                "Image": "https://ufc.com/images/styles/card_advance_small_280x356/s3/2023-10/102123-Khabib-Nurmagomedov-Islam-Makhachev-HERO.jpg?itok=U40YjWQg"
+            },
+            {
+                "Title": "The Best UFC Moments In Abu Dhabi | UFC 294",
+                "Link": "https://www.ufc.com/video/134262",
+                "Image": "https://ufc.com/images/styles/card_advance_small_280x356/s3/2023-10/102123-Islam-Makhachev-belt-thumbnail.jpg?itok=Maz0P6s4"
+            },
+            {
+                "Title": "The Best UFC Moments To Happen In Abu Dhabi",
+                "Link": "https://www.ufc.com/news/abu-dhabi-moments-ufc-khabib-makhachev-adesanya-holloway-geathje",
+                "Image": "https://ufc.com/images/styles/card_advance_small_280x356/s3/2022-10/100322-General-View-Octagon-Abu-Dhabi-Etihad-Arena-GettyImages-1296714342.jpg?itok=3wEwOlAL"
+            }
+        ]
+    },
+    "fighter_data": {
+        "key_stats": {
+            "Fight Win Streak": "30",
+            "Wins by Knockout": "8",
+            "Wins by Submission": "11"
+        },
+        "accuracy": {
+            "Standing": "298 (42%)",
+            "Clinch": "27 (4%)",
+            "Ground": "380 (54%)",
+            "KO/TKO": "8 (28%)",
+            "DEC": "10 (34%)",
+            "SUB": "11 (38%)"
+        },
+        "win_by": {},
+        "defense": {
+            "Standing": "298 (42%)",
+            "Clinch": "27 (4%)",
+            "Ground": "380 (54%)",
+            "KO/TKO": "8 (28%)",
+            "DEC": "10 (34%)",
+            "SUB": "11 (38%)"
+        },
+        "strike_breakdown": {}
+    },
+    "bio": {
+        "bio": {
+            "Status": "Retired",
+            "Place of Birth": "Dagestan Republic, Russia",
+            "Trains at": "AKA (American Kickboxing Academy) San Jose",
+            "Age": "34",
+            "Height": "70.00",
+            "Weight": "155.00",
+            "Octagon Debut": "Jan. 21, 2012",
+            "Reach": "70.00",
+            "Leg reach": "40.00"
+        },
+        "fighter_facts": [
+            "Pro since 2008",
+            "Eight wins by KO, 10 by submission (4 triangle, 2 RNC, 2 kimura, armbar, neck crank)",
+            "Has 11 first round finishes",
+            "Finished 14 of last 20 wins",
+            "Has 12-0 UFC record",
+            "Made two successful title defenses",
+            "Officially retired in 2021",
+            "Brazil",
+            "China",
+            "Eurasia",
+            "France",
+            "Japan",
+            "Korea",
+            "Latin America",
+            "USA Espanol"
+        ],
+        "ufc_history": [
+            "UFC History"
+        ],
+        "qa": {},
+        "images": [
+            {
+                "alt": "Khabib Nurmagomedov",
+                "url": "https://ufc.com/images/styles/athlete_bio_full_body/s3/image/fighter_images/Khabib_Nurmagomedov/1NURMAGOMEDOV_KHABIB_L.png?itok=jRlelmad"
+            },
+            {
+                "alt": "",
+                "url": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/image/fighter_images/Khabib_Nurmagomedov/1NURMAGOMEDOV_KHABIB.png?itok=y-1DQ-Pr"
+            },
+            {
+                "alt": "Justin Gaethje",
+                "url": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/GAETHJE_JUSTIN_03-08.png?itok=Nd7mxH-K"
+            },
+            {
+                "alt": "Paddy Pimblett submits King Green",
+                "url": "https://ufc.com/images/styles/card_advance_small_280x356/s3/2025-01/1%20HR%20Of%20Submissions%20v2.jpg?itok=5xKgg7aH"
+            },
+            {
+                "alt": "Coach Khabib Nurmagomedov stands in the corner of Umar Nurmagomedov of Russia before his bantamweight fight during the UFC Fight Night event at Etihad Arena on August 03, 2024 in Abu Dhabi, United Arab Emirates. (Photo by Josh Hedges/Zuffa LLC)",
+                "url": "https://ufc.com/images/styles/card_advance_small_280x356/s3/2025-01/080324-Khabib-Nurmagomedov-Coaching-HERO-GettyImages-2165151861.jpg?itok=feoL0AEm"
+            },
+            {
+                "alt": "Khabib Nurmagomedov",
+                "url": "https://ufc.com/images/styles/card_advance_small_280x356/s3/2025-01/011825-Khabib-thumb-espn.jpg?itok=CSGsz1mo"
+            },
+            {
+                "alt": "Khabib Nurmagomedov of Russia (R) and Conor McGregor of Ireland (L) start their UFC lightweight championship bout during the UFC 229 event inside T-Mobile Arena on October 6, 2018 in Las Vegas, Nevada. (Photo by Harry How/Getty Images)",
+                "url": "https://ufc.com/images/styles/card_advance_small_280x356/s3/2024-07/GettyImages-1046918324_resized.jpg?itok=WOhovG5s"
+            },
+            {
+                "alt": "Islam Makhachev of Russia reacts after his knockout victory against Alexander Volkanovski of Australia in the UFC lightweight championship fight during the UFC 294 event at Etihad Arena on October 21, 2023 in Abu Dhabi, United Arab Emirates. (Photo by Chris Unger/Zuffa LLC)",
+                "url": "https://ufc.com/images/styles/card_advance_small_280x356/s3/2024-05/060124-Islam-Makhachev-belt-HERO-GettyImages-1748875559.jpg?itok=IotQm44g"
+            },
+            {
+                "alt": "UFC CEO Dana White is seen on stage during the UFC 297 press conference at The Elgin and Winter Garden Theatre Centre on January 18, 2024 in Toronto, Ontario. (Photo by Jeff Bottari/Zuffa LLC)",
+                "url": "https://ufc.com/images/styles/card_advance_small_280x356/s3/2024-04/041324-Dana-White-general-HERO-GettyImages-1943335185.jpg?itok=mw4ii0QB"
+            },
+            {
+                "alt": "Khabib Nurmagomedov, Ilia Topuria, Israel Adesanya",
+                "url": "https://ufc.com/images/styles/card_advance_small_280x356/s3/2024-02/UndefeatedTitleChallengers_FIX.jpg?itok=OCajbDCx"
+            },
+            {
+                "alt": "",
+                "url": "https://ufc.com/images/styles/card_advance_small_280x356/s3/2023-11/Khabib-Nurmagomedov-Hero.jpg?itok=mmurHUO7"
+            },
+            {
+                "alt": "Alex Pereira of Brazil punches Israel Adesanya of Nigeria in the UFC middleweight championship bout during the UFC 281 event at Madison Square Garden on November 12, 2022 in New York City. (Photo by Chris Unger/Zuffa LLC)",
+                "url": "https://ufc.com/images/styles/card_advance_small_280x356/s3/2023-10/111123-Alex-Pereira-punch-HERO-GettyImages-1441091218.jpg?itok=zJFLbOTK"
+            },
+            {
+                "alt": "Portrait photos of UFC lightweight champions Khabib Nurmagomedov and Islam Makhachev.",
+                "url": "https://ufc.com/images/styles/card_advance_small_280x356/s3/2023-10/102123-Khabib-Nurmagomedov-Islam-Makhachev-HERO.jpg?itok=U40YjWQg"
+            },
+            {
+                "alt": "UFC lightweight champion Islam Makhachev celebrates defeating Charles Oliveira at UFC 280.",
+                "url": "https://ufc.com/images/styles/card_advance_small_280x356/s3/2023-10/102123-Islam-Makhachev-belt-thumbnail.jpg?itok=Maz0P6s4"
+            },
+            {
+                "alt": "A general view of the Octagon prior to the UFC Fight Night event at Etihad Arena on UFC Fight Island",
+                "url": "https://ufc.com/images/styles/card_advance_small_280x356/s3/2022-10/100322-General-View-Octagon-Abu-Dhabi-Etihad-Arena-GettyImages-1296714342.jpg?itok=3wEwOlAL"
+            },
+            {
+                "alt": "",
+                "url": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/image/fighter_images/Khabib_Nurmagomedov/1NURMAGOMEDOV_KHABIB.png?itok=y-1DQ-Pr"
+            },
+            {
+                "alt": "Justin Gaethje",
+                "url": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-03/GAETHJE_JUSTIN_03-08.png?itok=Nd7mxH-K"
+            },
+            {
+                "alt": "",
+                "url": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/image/fighter_images/Khabib_Nurmagomedov/1NURMAGOMEDOV_KHABIB.png?itok=y-1DQ-Pr"
+            },
+            {
+                "alt": "Dustin Poirier",
+                "url": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2025-07/POIRIER_DUSTIN_07-19.png?itok=2MeSB-J8"
+            },
+            {
+                "alt": "",
+                "url": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/image/fighter_images/Khabib_Nurmagomedov/1NURMAGOMEDOV_KHABIB.png?itok=y-1DQ-Pr"
+            },
+            {
+                "alt": "Conor McGregor",
+                "url": "https://ufc.com/images/styles/event_results_athlete_headshot/s3/2021-07/67667%252Fprofile-galery%252Fprofile-picture%252FMCGREGOR_CONOR_07-10.png?itok=f0200FBX"
+            },
+            {
+                "alt": "BROOKLYN, NEW YORK - APRIL 07: (R-L) Khabib Nurmagomedov of Russia punches Al Iaquinta in their lightweight title bout during the UFC 223 event inside Barclays Center on April 7, 2018 in Brooklyn, New York. (Photo by Brandon Magnus/Zuffa LLC/Zuffa LLC via Getty Images)",
+                "url": "https://ufc.com/images/styles/qa_383x633/s3/image/2018-10/GettyImages-943199724.jpg?itok=0-vpjGaE"
+            },
+            {
+                "alt": "NEW YORK, NY - NOVEMBER 12: Michael Johnson of the United States (bottom) fights against Khabib Nurmagomedov of Russia in their lightweight bout during the UFC 205 event at Madison Square Garden on November 12, 2016 in New York City. (Photo by Jeff Bottari/Zuffa LLC/Zuffa LLC via Getty Images)",
+                "url": "https://ufc.com/images/styles/qa_520x520/s3/image/2018-10/GettyImages-622880120.jpg?itok=Ueov-F4g"
+            },
+            {
+                "alt": "Khabib Nurmagomedov of Russia poses on the scale during the UFC 229 weigh-in inside T-Mobile Arena on October 5, 2018 in Las Vegas, Nevada. (Photo by Josh Hedges/Zuffa LLC)",
+                "url": "https://ufc.com/images/styles/mat_590_x_380/s3/2020-10/Nurmagomedov%20Khabib%20Weigh%20In%20229%20Hero.jpg?h=7092119a&itok=2-4sJ8lA"
+            },
+            {
+                "alt": "",
+                "url": "/themes/custom/ufc/assets/img/ufc-store-logo.png"
+            },
+            {
+                "alt": "NASHVILLE, TN - JANUARY 20:  Khabib Nurmagomedov reacts after defeating Kamal Shalorus during the UFC on FX event at Bridgestone Arena on January 20, 2012 in Nashville, Tennessee.  (Photo by Josh Hedges/Zuffa LLC/Zuffa LLC via Getty Images)",
+                "url": "https://ufc.com/images/styles/mat_590_x_380/s3/image/photo_galleries/web/web-ufx1_05_nurmagomedov_vs_shalorus_005.jpg?itok=fGnV-n3s"
+            },
+            {
+                "alt": "",
+                "url": "/themes/custom/ufc/assets/img/ufc-fight-pass-logo.png"
+            }
+        ]
+    }
+}
